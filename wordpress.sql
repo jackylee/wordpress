@@ -18,7 +18,8 @@
 --
 -- Table structure for table `wp_commentmeta`
 --
-
+CREATE DATABASE wordpress;
+use wordpress;
 DROP TABLE IF EXISTS `wp_commentmeta`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
